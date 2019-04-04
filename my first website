@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html>
-
 <head>
 <title>My First Code</title>
-</head>
-<body backround="images.jpeg">   
 
-    
+</head>
+<body bgcolor="ffcccc"> 
+
+     
 <h1>My First Heading</h1>                                            
-<p>My First Paragraph</p>
- <img src="images/image folder" alt=alterego.pdf">   
+ <font color="red"><p>My First Paragraph</p></font></body>
+
+    <img src="images/alter ego.pdf">  
     
-</body>
 </html>
